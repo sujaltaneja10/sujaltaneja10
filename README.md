@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sujal Taneja
+- 📔 I'm currently pursuing my B.E. in CSE from Chitkara University, HP
+- 👀 I’m interested in Web Development , open-source and Java
+- 🌱 I’m currently learning Javascript
+- 📫 Reach me :
+  - #### [Linkedin](https://in.linkedin.com/in/sujal-taneja-88121b280)
+  - #### [Twitter](https://twitter.com/sujaltaneja10)
